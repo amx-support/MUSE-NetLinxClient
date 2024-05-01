@@ -1,0 +1,10 @@
+{
+  "id": "netlinx_client_sample",
+  "name": "netlinx_client_sample",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "netlinx_client_sample.py",
+  "envvars": {}
+}
